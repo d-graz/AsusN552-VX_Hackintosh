@@ -59,3 +59,6 @@ In config.plist -> PlatformInfo
 	<key>SystemUUID</key>
 	<string>INSERT HERE</string>
 ```
+---
+Feel free to open up issues if you encounter some problems;\
+I will answer as sone as possible.
