@@ -23,7 +23,7 @@ Quick pc spec to ensure hardware is the same
  https://caizhiyuan.gitee.io/opencore-install-guide/
 - boot up your efi to see what is not working
 - if something is not working use this provided EFI as a mirror to detect differecens and make changes accordingly
-- **do directly copy kext files** as they may be outdated and not working anymore with your Opencore version 
+- **do not directly copy kext files** as they may be outdated and not working anymore with your Opencore version 
 - during the creation of EFI folder you probably will miss trackpad and/or keyboard backligth and/or sound and/or Fn keybindigs\
 **You can copy ACPI files** in your ACPI directory to fix problems\
 **Waning** ACPI files alone will not fix your problems, you will have to manually add to the config.plist in ACPI/Patch the correct patches to make them work
@@ -61,4 +61,4 @@ In config.plist -> PlatformInfo
 ```
 ---
 Feel free to open up issues if you encounter some problems;\
-I will answer as sone as possible.
+I will answer as soon as possible.
