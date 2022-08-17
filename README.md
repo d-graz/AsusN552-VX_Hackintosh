@@ -3,7 +3,7 @@ EFI directory for Asus N552-VX based on Opencore project
 ### Last update
 **November 2021**, MacOS Monterey update
 ### Last checked MacOS version
-12.4
+12.5
 ## Disclaimers
 - not all the ACPI patches were made by me, so i can not guarantee security and stability for those patches, althrough i have done some tests
 - this repo will be updated once per year, one month or so after the release on the newest MacOS (unless differently specified)
