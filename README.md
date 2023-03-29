@@ -1,12 +1,13 @@
 # AsusN552-VX Hackintosh
 EFI directory for Asus N552-VX based on Opencore project
-### Last update
+### Last update - Discontinued
 **November 2021**, MacOS Monterey update
 ### Last checked MacOS version
-12.5
+12.6
 ## Disclaimers
 - not all the ACPI patches were made by me, so i can not guarantee security and stability for those patches, althrough i have done some tests
-- this repo will be updated once per year, one month or so after the release on the newest MacOS (unless differently specified)
+- **DISCONTINUED**
+Since the release of MacOS 13 (Ventura) Apple dropped the driver for HD graphics present on Skylake CPU. Although this could be fixed the fact that i do not daily-drive this PC anymore was another reason I decided to deploy my time on other projects.
 ### PC spec
 Quick pc spec to ensure hardware is the same
 - CPU : Intel i7-6700hq
